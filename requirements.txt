@@ -1,0 +1,9 @@
+streamlit
+Pillow
+ollama
+
+
+# pip install -r requirements.txt
+# ollama serve
+# ollama run tinyllama
+# streamlit run app.py
